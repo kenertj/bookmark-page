@@ -13,7 +13,7 @@ import { ThemeProvider, createTheme } from '@mui/material/styles';
 
 const theme = createTheme({
   typography: {
-    fontFamily: "Raleway, Open Sans, Roboto, sans-serif"
+    fontFamily: "Rubik, Open Sans, Roboto, sans-serif"
   },
 });
 
